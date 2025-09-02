@@ -1,0 +1,23 @@
+---
+title: "Isaiah Benny"
+image: "isaiah.jpg"
+links:
+  - label: Github
+    url: "https://github.com/isaiahbenny"
+output:
+  postcards::solana
+---
+ 
+## Bio
+I am a Junior at the University of Texas at Austin majoring in Statistics and Data Science. My interests include actuarial science, weight lifting, and football. Some of the technologies I'm proficient in are R, Python, and Excel.
+
+## My Favorite NFL Players for This Season
+- CeeDee Lamb
+- Drake London
+- Jaydon Blue
+- Luther Burden III
+- Chase Brown
+
+\
+
+*This website was built on `r Sys.time()`*
